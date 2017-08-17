@@ -1,6 +1,15 @@
 {
   "name": "cerebro-password",
+  "description": "Dead simple password generator for cerebro",
   "version": "0.1.0",
+  "author": {
+    "name": "Bruno Paz",
+    "email": "brunopaz@sapo.pt",
+    "url": "http://brunopaz.net"
+  },
+  "repository": {
+    "url": "https://github.com/brpaz/cerebro-password"
+  },
   "dependencies": {
     "cerebro-tools": "^0.1.8",
     "cerebro-ui": "^0.0.16",
